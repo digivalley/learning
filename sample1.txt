@@ -6,9 +6,13 @@ Initialized empty Git repository in https://github.com/digivalley/setPresence.gi
 C:\_Learning\_labo\htdocs\git\learning>git push origin master
 Everything up-to-date
 
+●変更のみの場合：
 
 追加>git add .
+
 
 ローカル登録>git commit -m "更新0326"
 
 リモート更新>git push origin master
+
+
